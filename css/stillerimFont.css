@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: Impregnable;
+	src: url('../font/Impregnable_Personal_Use_Only.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: elyazmasi;
+	src: url('../font/elyazmasi.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Akrobat;
+	src: url('../font/akrobat/Akrobat-SemiBold.otf') format('truetype');
+}
+@font-face {
+    font-family: Pt Sans;
+	src: url('../font/ptSans/PTS75F.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: painterStyle;
+	src: url('../font/letitbe/Let-it-Be-Personal-Use.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Ornamental;
+	src: url('../font/Ornamental/Ornamental.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: CastroScript;
+	src: url('../font/CastroScript/CastroScript.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Comfortaa14Light;
+	src: url('../font/Comfortaa14/Comfortaa-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Comfortaa14Medium;
+	src: url('../font/Comfortaa14/Comfortaa-Medium.ttf') format('truetype');
+}
+
+
+
+.fontAkrobat{font-family:Akrobat}
+.fontArial{font-family:Arial}
+.fontPtSans{font-family:Pt Sans}
+.fontPainter{font-family:painterStyle}
+.fontOrnamental{font-family:Ornamental;}
+.fontCastroScript{font-family:CastroScript;}
+.fontComfortaa14Light{font-family:Comfortaa14Light;}
+.fontComfortaa14Medium{font-family:Comfortaa14Medium;}
